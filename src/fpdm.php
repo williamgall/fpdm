@@ -561,7 +561,7 @@ if (!call_user_func_array('class_exists', $__tmp)) {
 		*
 		*@access public
 		*@note reproduces the fpdf's behavior
-		*@param string dest the destination
+		*@param string dest the destination type: 'F' for save to local file, 'D' for Download 
 		*@param string name the filename
 		**/
 		function Output($dest='', $name=''){
