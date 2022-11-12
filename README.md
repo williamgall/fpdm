@@ -2,6 +2,8 @@
 
 ## Package
 
+This package is a fork of codeshll/fpdm. I needed this compatible with php 8.1 and available via composer so I created this fork.  I intend in the future to just put the pdf form filling capabilities into a fully php 8.1 compatable library.
+
 The FPDM class allows to fill out PDF forms, i.e. populate fields of a PDF file. It is **developed by Olivier Plathey**, author of the [FDPF Library](http://www.fpdf.org/), and has been released as [Skript 93](http://www.fpdf.org/en/script/script93.php).
 
 I created this repository for the following reasons:
