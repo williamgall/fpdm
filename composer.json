@@ -1,5 +1,5 @@
 {
-  "name": "tmw/fpdm",
+  "name": "williamgall/fpdm",
   "description": "PDF form filling using FPDM Class written by FPDF author Olivier",
   "type": "library",
   "license": "MIT",
@@ -13,10 +13,10 @@
     {
       "name": "codeshell",
       "role": "Developer",
-      "homepage": "https://github.com/codeshell/"
+      "homepage": "https://github.com/williamgall/"
     }
   ],
-  "homepage": "https://github.com/codeshell/fpdm",
+  "homepage": "https://github.com/williamgall/fpdm",
   "autoload": {
     "classmap": [
       "src/fpdm.php",
@@ -26,7 +26,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/codeshell/fpdm",
+      "url": "https://github.com/williamgall/fpdm",
       "name": "GitHub"
     }
   ],
