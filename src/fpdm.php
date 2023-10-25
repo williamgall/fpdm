@@ -112,7 +112,7 @@ if (!call_user_func_array('class_exists', $__tmp)) {
 
 		var $needAppearancesTrue = false;	//boolean, indicates if /NeedAppearances is already set to true
 		var $isUTF8 = false;				//boolean (true for UTF-8, false for ISO-8859-1)
-		
+		var $n;
         /**
          * Constructor
          *
